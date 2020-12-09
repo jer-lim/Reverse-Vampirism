@@ -206,8 +206,8 @@ provided reduced latency and allowed me to branch out to creating tools for
 monitoring other Ethereum-based projects. After a few days without it, it became
 clear that running a local node was crucial for this task. The only downside is
 that it uses a lot of RAM, filling up the 16 GB that I had. Although the script
-was fully automated, I was unable to do anything else at the same time. I have
-since upgraded to 32 GB.
+was fully automated, I was unable to do anything else at the same time. The
+profits from this project have since paid for an upgrade to 32 GB.
 
 ## Conclusion
 
