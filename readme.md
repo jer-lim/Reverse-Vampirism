@@ -167,7 +167,7 @@ contract code limiting the amount that the DRC token's price could be raised
 above a previously recorded price. This piece of code limited the amount of DRC
 that someone could buy before pushing the drain button, limiting the value
 taken away from investors. Although this code was not put into action for much
-of October, it was eventually put into use at the end of the month. Getting
+of November, it was eventually put into use in the middle of the month. Getting
 around this is an easy task: Simulate the amount bought and sold, and if the
 price went above the peg, decrease the amount bought and try again. Although a
 mild nuisance, it sometimes limited the amount of value that was possible to
