@@ -152,13 +152,13 @@ weak by putting in a public drain function. Most other projects with
 similar mechanics limit the button to only trusted sources. In theory, with
 enough actors, the profitability of performing this would tend towards zero,
 with almost all value returned to investors. In reality, there are only a few
-people in the world capable of carrying it out, and the overlap of these people
-with people watching the Dracula project is small. It is likely that this was a
-case of developers biting off more than they could chew. The people behind the
-Dracula project are likely inexperienced, with no economic and game theory
-mindset that is almost a prerequisite to be a contributing part of the DeFi
-world. It is likely that Dracula only rose to prominence as a fluke, as it was
-entirely unsustainable and collapsed soon after peaking.
+candidates in the world with the appropriate expertise required to execute this,
+and among them, a small minority are aware of the Dracula project. It is likely
+that this was a case of developers biting off more than they could chew. The
+people behind the Dracula project are likely inexperienced, with no economic
+and game theory mindset that is almost a prerequisite to be a contributing part
+of the DeFi world. It is likely that Dracula only rose to prominence as a fluke,
+as it was entirely unsustainable and collapsed soon after peaking.
 
 ## Defeating Defences
 
