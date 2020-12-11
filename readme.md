@@ -211,6 +211,8 @@ profits from this project have since paid for an upgrade to 32 GB.
 
 ## Conclusion
 
+![Thanks Dracula for helping a good cause.](sosd.png)
+
 This project was a very successful first foray into the world of smart
 contracts. While working on it, I successfully picked up the tools of the trade
 and put them to use in only four days, despite not having read a line of
@@ -218,4 +220,6 @@ contract code before. It has opened up new avenues of automated income
 generation through monitoring and execution, and given me the ability to
 personally audit the contracts that I interact and choose to place my funds in.
 The total amount of value extracted from Dracula is north of 7.75 ETH, or over
-$4,300 USD at the time of writing.
+$4,300 USD at the time of writing. Of that, $500 SGD has been donated to [Save
+Our Street Dogs (SOSD)](https://sosd.org.sg/), one of the best dog shelters in
+Singapore. Thanks Dracula!
